@@ -1,0 +1,402 @@
+[
+    {
+        "all_spent_energy": 0.33599999999999997,
+        "time": 0
+    },
+    {
+        "all_spent_energy": 0.6719999999999999,
+        "time": 1
+    },
+    {
+        "all_spent_energy": 1.008,
+        "time": 2
+    },
+    {
+        "all_spent_energy": 1.3439999999999999,
+        "time": 3
+    },
+    {
+        "all_spent_energy": 1.6799999999999997,
+        "time": 4
+    },
+    {
+        "all_spent_energy": 2.0159999999999996,
+        "time": 5
+    },
+    {
+        "all_spent_energy": 2.3519999999999994,
+        "time": 6
+    },
+    {
+        "all_spent_energy": 2.6879999999999993,
+        "time": 7
+    },
+    {
+        "all_spent_energy": 3.023999999999999,
+        "time": 8
+    },
+    {
+        "all_spent_energy": 3.359999999999999,
+        "time": 9
+    },
+    {
+        "all_spent_energy": 3.695999999999999,
+        "time": 10
+    },
+    {
+        "all_spent_energy": 4.031999999999999,
+        "time": 11
+    },
+    {
+        "all_spent_energy": 4.367999999999999,
+        "time": 12
+    },
+    {
+        "all_spent_energy": 4.704,
+        "time": 13
+    },
+    {
+        "all_spent_energy": 5.04,
+        "time": 14
+    },
+    {
+        "all_spent_energy": 5.376,
+        "time": 15
+    },
+    {
+        "all_spent_energy": 5.712000000000001,
+        "time": 16
+    },
+    {
+        "all_spent_energy": 6.048000000000001,
+        "time": 17
+    },
+    {
+        "all_spent_energy": 6.384000000000001,
+        "time": 18
+    },
+    {
+        "all_spent_energy": 6.7200000000000015,
+        "time": 19
+    },
+    {
+        "all_spent_energy": 7.056000000000002,
+        "time": 20
+    },
+    {
+        "all_spent_energy": 7.392000000000002,
+        "time": 21
+    },
+    {
+        "all_spent_energy": 7.728000000000002,
+        "time": 22
+    },
+    {
+        "all_spent_energy": 8.064000000000002,
+        "time": 23
+    },
+    {
+        "all_spent_energy": 8.400000000000002,
+        "time": 24
+    },
+    {
+        "all_spent_energy": 8.736000000000002,
+        "time": 25
+    },
+    {
+        "all_spent_energy": 9.072000000000003,
+        "time": 26
+    },
+    {
+        "all_spent_energy": 9.408000000000003,
+        "time": 27
+    },
+    {
+        "all_spent_energy": 9.744000000000003,
+        "time": 28
+    },
+    {
+        "all_spent_energy": 10.080000000000004,
+        "time": 29
+    },
+    {
+        "all_spent_energy": 10.416000000000004,
+        "time": 30
+    },
+    {
+        "all_spent_energy": 10.752000000000004,
+        "time": 31
+    },
+    {
+        "all_spent_energy": 11.088000000000005,
+        "time": 32
+    },
+    {
+        "all_spent_energy": 11.424000000000005,
+        "time": 33
+    },
+    {
+        "all_spent_energy": 11.760000000000005,
+        "time": 34
+    },
+    {
+        "all_spent_energy": 12.096000000000005,
+        "time": 35
+    },
+    {
+        "all_spent_energy": 12.432000000000006,
+        "time": 36
+    },
+    {
+        "all_spent_energy": 12.768000000000006,
+        "time": 37
+    },
+    {
+        "all_spent_energy": 13.104000000000006,
+        "time": 38
+    },
+    {
+        "all_spent_energy": 13.440000000000007,
+        "time": 39
+    },
+    {
+        "all_spent_energy": 13.776000000000007,
+        "time": 40
+    },
+    {
+        "all_spent_energy": 14.112000000000007,
+        "time": 41
+    },
+    {
+        "all_spent_energy": 14.448000000000008,
+        "time": 42
+    },
+    {
+        "all_spent_energy": 14.784000000000008,
+        "time": 43
+    },
+    {
+        "all_spent_energy": 15.120000000000008,
+        "time": 44
+    },
+    {
+        "all_spent_energy": 15.456000000000008,
+        "time": 45
+    },
+    {
+        "all_spent_energy": 15.792000000000009,
+        "time": 46
+    },
+    {
+        "all_spent_energy": 16.128000000000007,
+        "time": 47
+    },
+    {
+        "all_spent_energy": 16.464000000000006,
+        "time": 48
+    },
+    {
+        "all_spent_energy": 16.800000000000004,
+        "time": 49
+    },
+    {
+        "all_spent_energy": 17.136000000000003,
+        "time": 50
+    },
+    {
+        "all_spent_energy": 17.472,
+        "time": 51
+    },
+    {
+        "all_spent_energy": 17.808,
+        "time": 52
+    },
+    {
+        "all_spent_energy": 18.144,
+        "time": 53
+    },
+    {
+        "all_spent_energy": 18.479999999999997,
+        "time": 54
+    },
+    {
+        "all_spent_energy": 18.815999999999995,
+        "time": 55
+    },
+    {
+        "all_spent_energy": 19.151999999999994,
+        "time": 56
+    },
+    {
+        "all_spent_energy": 19.487999999999992,
+        "time": 57
+    },
+    {
+        "all_spent_energy": 19.82399999999999,
+        "time": 58
+    },
+    {
+        "all_spent_energy": 20.15999999999999,
+        "time": 59
+    },
+    {
+        "all_spent_energy": 20.495999999999988,
+        "time": 60
+    },
+    {
+        "all_spent_energy": 20.831999999999987,
+        "time": 61
+    },
+    {
+        "all_spent_energy": 21.167999999999985,
+        "time": 62
+    },
+    {
+        "all_spent_energy": 21.503999999999984,
+        "time": 63
+    },
+    {
+        "all_spent_energy": 21.839999999999982,
+        "time": 64
+    },
+    {
+        "all_spent_energy": 22.17599999999998,
+        "time": 65
+    },
+    {
+        "all_spent_energy": 22.51199999999998,
+        "time": 66
+    },
+    {
+        "all_spent_energy": 22.847999999999978,
+        "time": 67
+    },
+    {
+        "all_spent_energy": 23.183999999999976,
+        "time": 68
+    },
+    {
+        "all_spent_energy": 23.519999999999975,
+        "time": 69
+    },
+    {
+        "all_spent_energy": 23.855999999999973,
+        "time": 70
+    },
+    {
+        "all_spent_energy": 24.19199999999997,
+        "time": 71
+    },
+    {
+        "all_spent_energy": 24.52799999999997,
+        "time": 72
+    },
+    {
+        "all_spent_energy": 24.86399999999997,
+        "time": 73
+    },
+    {
+        "all_spent_energy": 25.199999999999967,
+        "time": 74
+    },
+    {
+        "all_spent_energy": 25.535999999999966,
+        "time": 75
+    },
+    {
+        "all_spent_energy": 25.871999999999964,
+        "time": 76
+    },
+    {
+        "all_spent_energy": 26.207999999999963,
+        "time": 77
+    },
+    {
+        "all_spent_energy": 26.54399999999996,
+        "time": 78
+    },
+    {
+        "all_spent_energy": 26.87999999999996,
+        "time": 79
+    },
+    {
+        "all_spent_energy": 27.21599999999996,
+        "time": 80
+    },
+    {
+        "all_spent_energy": 27.551999999999957,
+        "time": 81
+    },
+    {
+        "all_spent_energy": 27.887999999999955,
+        "time": 82
+    },
+    {
+        "all_spent_energy": 28.223999999999954,
+        "time": 83
+    },
+    {
+        "all_spent_energy": 28.559999999999953,
+        "time": 84
+    },
+    {
+        "all_spent_energy": 28.89599999999995,
+        "time": 85
+    },
+    {
+        "all_spent_energy": 29.23199999999995,
+        "time": 86
+    },
+    {
+        "all_spent_energy": 29.567999999999948,
+        "time": 87
+    },
+    {
+        "all_spent_energy": 29.903999999999947,
+        "time": 88
+    },
+    {
+        "all_spent_energy": 30.239999999999945,
+        "time": 89
+    },
+    {
+        "all_spent_energy": 30.575999999999944,
+        "time": 90
+    },
+    {
+        "all_spent_energy": 30.911999999999942,
+        "time": 91
+    },
+    {
+        "all_spent_energy": 31.24799999999994,
+        "time": 92
+    },
+    {
+        "all_spent_energy": 31.58399999999994,
+        "time": 93
+    },
+    {
+        "all_spent_energy": 31.919999999999938,
+        "time": 94
+    },
+    {
+        "all_spent_energy": 32.255999999999936,
+        "time": 95
+    },
+    {
+        "all_spent_energy": 32.591999999999935,
+        "time": 96
+    },
+    {
+        "all_spent_energy": 32.92799999999993,
+        "time": 97
+    },
+    {
+        "all_spent_energy": 33.26399999999993,
+        "time": 98
+    },
+    {
+        "all_spent_energy": 33.59999999999993,
+        "time": 99
+    }
+]

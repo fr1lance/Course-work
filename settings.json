@@ -1,0 +1,36 @@
+{
+    "room": {
+        "number": 1,
+        "height": [
+            2
+        ],
+        "weight": [
+            3
+        ],
+        "length": [
+            4
+        ]
+    },
+    "general": {
+        "interval_of_time": 1,
+        "time_for_work": 100
+    },
+    "climate": {
+        "start_temperature": 10,
+        "support_temperature": 20,
+        "heater": {
+            "number": 1,
+            "power": 2400
+        },
+        "conditioner": {
+            "number": 1,
+            "power": 2500,
+            "frozen_power": 3500
+        }
+    },
+    "devices": {
+        "name": [],
+        "power": [],
+        "operating_time": []
+    }
+}

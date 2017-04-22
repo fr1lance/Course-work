@@ -7,7 +7,6 @@
      },
 
     "general": {
-    "interval_of_time" : "",
     "time_for_work" : ""
     },
 
@@ -25,9 +24,19 @@
         }
     },
 
-    "devices" : {
-        "name": [],
-        "power": [],
-        "operating_time": []
-     }
+    "device_templete" : {
+        "name" : "",
+        "power" : "",
+        "number_of_starts" : "",
+        "time_for_start" : [],
+        "time_for_end" : [],
+        "spent_energy" : 0
+    },
+
+    "devices" : [],
+
+    "opening_window" : {
+        "time_for_open" : [],
+        "delta_temperature" : ""
+    }
 }

@@ -2,35 +2,75 @@
     "room": {
         "number": 1,
         "height": [
-            2
+            2.7
         ],
         "weight": [
-            3
+            6.0
         ],
         "length": [
-            4
+            6.0
         ]
     },
     "general": {
-        "interval_of_time": 1,
-        "time_for_work": 100
+        "time_for_work": 3600
     },
     "climate": {
-        "start_temperature": 10,
-        "support_temperature": 20,
+        "start_temperature": 20.0,
+        "support_temperature": 20.0,
         "heater": {
             "number": 1,
-            "power": 2400
+            "power": 3000.0
         },
         "conditioner": {
             "number": 1,
-            "power": 2500,
-            "frozen_power": 3500
+            "power": 3000.0,
+            "frozen_power": 3500.0
         }
     },
-    "devices": {
-        "name": [],
-        "power": [],
-        "operating_time": []
+    "device_templete": {
+        "name": "",
+        "power": "",
+        "number_of_starts": "",
+        "time_for_start": [],
+        "time_for_end": [],
+        "spent_energy": 0
+    },
+    "devices": [
+        {
+            "name": "\u041c\u0438\u043a\u0440\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u043a\u0430",
+            "power": 2000.0,
+            "number_of_starts": 2,
+            "time_for_start": [
+                400,
+                20
+            ],
+            "time_for_end": [
+                640,
+                100
+            ],
+            "spent_energy": 0
+        },
+        {
+            "name": "\u0427\u0430\u0439\u043d\u0438\u043a",
+            "power": 300.0,
+            "number_of_starts": 1,
+            "time_for_start": [
+                2500
+            ],
+            "time_for_end": [
+                2620
+            ],
+            "spent_energy": 0
+        }
+    ],
+    "opening_window": {
+        "time_for_open": [
+            100,
+            200,
+            1000,
+            2000,
+            3000
+        ],
+        "delta_temperature": -1.0
     }
 }

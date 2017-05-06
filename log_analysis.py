@@ -2,7 +2,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 
-file = open("log.json", encoding='utf-8')
+try:
+    file = open("log.json", encoding='utf-8')
+except (FileNotFoundError):
+    print("Не удалось открыть файл логов! Проверитье его наличие!")
+    exit(1)
 json_data = json.load(file)
 file.close()
 
@@ -42,7 +46,11 @@ plt.show()
 
 #построили
 
-file = open("log_by_each_device.json", encoding='utf-8')
+try:
+    file = open("log_by_each_device.json", encoding='utf-8')
+except (FileNotFoundError):
+    print("Не удалось открыть второй файл логов! Проверитье его наличие!")
+    exit(1)
 json_data = json.load(file)
 file.close()
 

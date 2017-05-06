@@ -37,6 +37,7 @@
 
     "opening_window" : {
         "time_for_open" : [],
+        "time_for_end" : [],
         "delta_temperature" : ""
     }
 }

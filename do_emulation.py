@@ -1,6 +1,12 @@
 import json
 
-file = open("settings.json", encoding='utf-8')
+
+try:
+    file = open("settings.json", encoding='utf-8')
+except (FileNotFoundError):
+    print("Не удалось открыть файл настроек! Проверитье его наличие!")
+    exit(1)
+
 json_data = json.load(file)
 file.close()
 
@@ -35,12 +41,13 @@ for time_of_emulation in range(0, json_data["general"]["time_for_work"]):
 
     for devices in json_data["devices"]:
         for number_of_interval in range(len(devices["time_for_start"])):
-            if devices["time_for_start"][number_of_interval] < time_of_emulation < devices["time_for_end"][number_of_interval]:
+            if devices["time_for_start"][number_of_interval] <= time_of_emulation <= devices["time_for_end"][number_of_interval]:
                 spent_energy+=devices["power"] / 3600
                 devices["spent_energy"]+=devices["power"] / 3600
 
-    if time_of_emulation in json_data["opening_window"]["time_for_open"]:
-        current_temperature+=json_data["opening_window"]["delta_temperature"]
+    for number_of_interval in range(len(json_data["opening_window"]["time_for_open"])):
+        if json_data["opening_window"]["time_for_open"][number_of_interval] <= time_of_emulation <= json_data["opening_window"]["time_for_end"][number_of_interval]:
+            current_temperature+=json_data["opening_window"]["delta_temperature"]
 
     log.append({
         "all_spent_energy": spent_energy,
@@ -75,3 +82,5 @@ with open('log.json', 'w', encoding='utf-8') as file_for_write:
 
 with open('log_by_each_device.json', 'w', encoding='utf-8') as file_for_write:
     file_for_write.write(json.dumps(spent_energy_by_each_device, indent=4))
+
+print("Эмулирование прошло успешно!")

@@ -98,6 +98,7 @@ while not (chek_float_temp(tmp_read)):
     tmp_read = input()
 json_data["climate"]["start_temperature"] = float(tmp_read)
 print("Введите поддерживаемую температуру")
+tmp_read = input()
 while not (chek_float_temp(tmp_read)):
     print("Ошибка ввода! Попробуйте еще раз!")
     tmp_read = input()
@@ -133,7 +134,8 @@ else:
 
 print("Есть ли в доме обогреватель? (y/n)")
 if input() == "y":
-    print("Ваедите количесвто обогревателей")
+    print("Введите количесвто обогревателей")
+    tmp_read = input()
     while not (chek_int(tmp_read)):
         print("Ошибка ввода! Попробуйте еще раз!")
         tmp_read = input()

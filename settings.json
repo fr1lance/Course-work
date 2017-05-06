@@ -1,20 +1,14 @@
 {
     "room": {
-        "number": 3,
+        "number": 1,
         "height": [
-            2.5,
-            2.5,
             2.5
         ],
         "weight": [
-            4.0,
-            5.0,
-            2.0
+            4.0
         ],
         "length": [
-            5.0,
-            9.0,
-            4.0
+            5.0
         ]
     },
     "general": {
@@ -24,13 +18,13 @@
         "start_temperature": 19.0,
         "support_temperature": 20.0,
         "heater": {
-            "number": 4,
-            "power": 4000.0
+            "number": 1,
+            "power": 3000.0
         },
         "conditioner": {
-            "number": 3,
-            "power": 3500.0,
-            "frozen_power": 4000.0
+            "number": 1,
+            "power": 2500.0,
+            "frozen_power": 3500.0
         }
     },
     "device_templete": {
@@ -44,34 +38,42 @@
     "devices": [
         {
             "name": "\u041c\u0438\u043a\u0440\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u043a\u0430",
-            "power": 3000.0,
-            "number_of_starts": 5,
+            "power": 1500.0,
+            "number_of_starts": 2,
             "time_for_start": [
                 100,
-                300,
-                500,
-                700,
-                900
+                300
             ],
             "time_for_end": [
                 200,
-                400,
-                600,
-                800,
-                1000
+                400
+            ],
+            "spent_energy": 0
+        },
+        {
+            "name": "\u041f\u0435\u0447\u044c",
+            "power": 4000.0,
+            "number_of_starts": 1,
+            "time_for_start": [
+                100
+            ],
+            "time_for_end": [
+                1100
             ],
             "spent_energy": 0
         }
     ],
     "opening_window": {
         "time_for_open": [
-            700,
-            300,
-            250,
-            200,
             100,
-            1
+            420,
+            800
         ],
-        "delta_temperature": -5.0
+        "time_for_end": [
+            120,
+            440,
+            810
+        ],
+        "delta_temperature": -0.05
     }
 }

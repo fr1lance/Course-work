@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a0248f5-9883-44f8-bbb2-9607bac60095" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default_settings.json" afterPath="$PROJECT_DIR$/default_settings.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/do_emulation.py" afterPath="$PROJECT_DIR$/do_emulation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input_data_from_console.py" afterPath="$PROJECT_DIR$/input_data_from_console.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log.json" afterPath="$PROJECT_DIR$/log.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log_analysis.py" afterPath="$PROJECT_DIR$/log_analysis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log_by_each_device.json" afterPath="$PROJECT_DIR$/log_by_each_device.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.json" afterPath="$PROJECT_DIR$/settings.json" />
     </list>
@@ -19,9 +15,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CW1$input_data_from_console.coverage" NAME="input_data_from_console Coverage Results" MODIFIED="1494097174171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CW1$do_emulation.coverage" NAME="do_emulation Coverage Results" MODIFIED="1494097183380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CW1$log_analysis.coverage" NAME="log_analysis Coverage Results" MODIFIED="1494097943016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CW1$input_data_from_console.coverage" NAME="input_data_from_console Coverage Results" MODIFIED="1494098377494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CW1$do_emulation.coverage" NAME="do_emulation Coverage Results" MODIFIED="1494098703970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CW1$log_analysis.coverage" NAME="log_analysis Coverage Results" MODIFIED="1494098713339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CW1$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1492873698443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -30,8 +26,8 @@
       <file leaf-file-name="input_data_from_console.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input_data_from_console.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="52" selection-end-column="11" />
+            <state relative-caret-position="3895">
+              <caret line="137" column="22" lean-forward="true" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -39,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -62,14 +58,14 @@
       <file leaf-file-name="do_emulation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/do_emulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log_analysis.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="log_analysis.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/log_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
@@ -100,9 +96,9 @@
         <option value="$PROJECT_DIR$/settings.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/default_settings.json" />
-        <option value="$PROJECT_DIR$/input_data_from_console.py" />
         <option value="$PROJECT_DIR$/do_emulation.py" />
         <option value="$PROJECT_DIR$/log_analysis.py" />
+        <option value="$PROJECT_DIR$/input_data_from_console.py" />
       </list>
     </option>
   </component>
@@ -471,7 +467,7 @@
         <state relative-caret-position="60622">
           <caret line="1783" column="20" lean-forward="false" selection-start-line="1783" selection-start-column="20" selection-end-line="1783" selection-end-column="20" />
           <folding>
-            <marker date="1493371105726" expanded="true" signature="448907:448913" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
+            <marker date="1494098704142" expanded="true" signature="445439:445445" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
           </folding>
         </state>
       </provider>
@@ -491,9 +487,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493371105729" expanded="true" signature="14:25" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="14:119" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="354:360" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:25" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:119" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="417:423" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -529,8 +525,8 @@
         <state relative-caret-position="1088">
           <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
-            <marker date="1493371098219" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
-            <marker date="1493371098219" expanded="true" signature="1566:1574" ph="{&quot;delta_temperature&quot;: -1.0...}" />
+            <marker date="1494098598060" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
+            <marker date="1494098598060" expanded="true" signature="1674:1680" ph="{&quot;delta_temperature&quot;: -1.0...}" />
           </folding>
         </state>
       </provider>
@@ -567,7 +563,7 @@
         <state relative-caret-position="60622">
           <caret line="1783" column="20" lean-forward="false" selection-start-line="1783" selection-start-column="20" selection-end-line="1783" selection-end-column="20" />
           <folding>
-            <marker date="1493371105726" expanded="true" signature="448907:448913" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
+            <marker date="1494098704142" expanded="true" signature="445439:445445" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
           </folding>
         </state>
       </provider>
@@ -577,9 +573,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493371105729" expanded="true" signature="14:25" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="14:119" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="354:360" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:25" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:119" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="417:423" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -617,8 +613,8 @@
         <state relative-caret-position="884">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
-            <marker date="1493371098219" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
-            <marker date="1493371098219" expanded="true" signature="1566:1574" ph="{&quot;delta_temperature&quot;: -1.0...}" />
+            <marker date="1494098598060" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
+            <marker date="1494098598060" expanded="true" signature="1674:1680" ph="{&quot;delta_temperature&quot;: -1.0...}" />
           </folding>
         </state>
       </provider>
@@ -655,7 +651,7 @@
         <state relative-caret-position="60622">
           <caret line="1783" column="20" lean-forward="false" selection-start-line="1783" selection-start-column="20" selection-end-line="1783" selection-end-column="20" />
           <folding>
-            <marker date="1493371105726" expanded="true" signature="448907:448913" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
+            <marker date="1494098704142" expanded="true" signature="445439:445445" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
           </folding>
         </state>
       </provider>
@@ -665,9 +661,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493371105729" expanded="true" signature="14:25" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="14:119" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="354:360" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:25" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:119" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="417:423" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -705,8 +701,8 @@
         <state relative-caret-position="884">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
-            <marker date="1493371098219" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
-            <marker date="1493371098219" expanded="true" signature="1566:1574" ph="{&quot;delta_temperature&quot;: -1.0...}" />
+            <marker date="1494098598060" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
+            <marker date="1494098598060" expanded="true" signature="1674:1680" ph="{&quot;delta_temperature&quot;: -1.0...}" />
           </folding>
         </state>
       </provider>
@@ -732,7 +728,7 @@
         <state relative-caret-position="60622">
           <caret line="1783" column="20" lean-forward="false" selection-start-line="1783" selection-start-column="20" selection-end-line="1783" selection-end-column="20" />
           <folding>
-            <marker date="1493371105726" expanded="true" signature="448907:448913" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
+            <marker date="1494098704142" expanded="true" signature="445439:445445" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
           </folding>
         </state>
       </provider>
@@ -752,9 +748,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493371105729" expanded="true" signature="14:25" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="14:119" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="354:360" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:25" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:119" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="417:423" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -793,8 +789,8 @@
         <state relative-caret-position="884">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
-            <marker date="1493371098219" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
-            <marker date="1493371098219" expanded="true" signature="1566:1574" ph="{&quot;delta_temperature&quot;: -1.0...}" />
+            <marker date="1494098598060" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
+            <marker date="1494098598060" expanded="true" signature="1674:1680" ph="{&quot;delta_temperature&quot;: -1.0...}" />
           </folding>
         </state>
       </provider>
@@ -820,7 +816,7 @@
         <state relative-caret-position="60622">
           <caret line="1783" column="20" lean-forward="true" selection-start-line="1783" selection-start-column="20" selection-end-line="1783" selection-end-column="20" />
           <folding>
-            <marker date="1493371105726" expanded="true" signature="448907:448913" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
+            <marker date="1494098704142" expanded="true" signature="445439:445445" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
           </folding>
         </state>
       </provider>
@@ -840,9 +836,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493371105729" expanded="true" signature="14:25" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="14:119" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="354:360" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:25" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:119" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="417:423" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -871,8 +867,8 @@
         <state relative-caret-position="1088">
           <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
-            <marker date="1493371098219" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
-            <marker date="1493371098219" expanded="true" signature="1566:1574" ph="{&quot;delta_temperature&quot;: -1.0...}" />
+            <marker date="1494098598060" expanded="true" signature="14:34" ph="{&quot;number&quot;: 1...}" />
+            <marker date="1494098598060" expanded="true" signature="1674:1680" ph="{&quot;delta_temperature&quot;: -1.0...}" />
           </folding>
         </state>
       </provider>
@@ -899,7 +895,7 @@
         <state relative-caret-position="34">
           <caret line="1783" column="20" lean-forward="false" selection-start-line="1783" selection-start-column="20" selection-end-line="1783" selection-end-column="20" />
           <folding>
-            <marker date="1493371105726" expanded="true" signature="448907:448913" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
+            <marker date="1494098704142" expanded="true" signature="445439:445445" ph="{&quot;all_spent_energy&quot;: 3102.416666666797...}" />
           </folding>
         </state>
       </provider>
@@ -909,19 +905,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493371105729" expanded="true" signature="14:25" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="14:119" ph="[...]" />
-            <marker date="1493371105729" expanded="true" signature="354:360" ph="[...]" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input_data_from_console.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="52" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1494098704145" expanded="true" signature="14:25" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="14:119" ph="[...]" />
+            <marker date="1494098704145" expanded="true" signature="417:423" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -934,10 +920,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_data_from_console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3895">
+          <caret line="137" column="22" lean-forward="true" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/do_emulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -949,14 +953,6 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
